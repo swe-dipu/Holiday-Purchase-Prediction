@@ -57,6 +57,8 @@ Typical dataset structure includes around 4,800 rows and ~20 columns, which may 
 Best performing model: Typically XGBoost demonstrates highest F1-score and AUC
 False positive reduction: Focusing on top decile of predicted probabilities often captures > 80% of buyers
 Marketing optimization: Target high‑propensity customers to significantly cut outreach cost and increase conversion
-## 📝 LicenseMIT License — educational and research use encouraged.
+## 📝 LicenseMIT License
+— educational and research use encouraged.
 
-## 👤 AuthorDipu Ghosh– [@swe‑dipu]
+## 👤 Author
+- Dipu Ghosh– [@swe‑dipu]
